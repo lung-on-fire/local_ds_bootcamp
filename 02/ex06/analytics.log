@@ -1,0 +1,8 @@
+2025-02-11 20:10:06,935 The file was read
+2025-02-11 20:10:06,935 The number of heads and tails was calculated
+2025-02-11 20:10:06,935 The percentage of heads and tails was calculated
+2025-02-11 20:10:06,935 3 random predictions were done
+2025-02-11 20:10:06,935 The report was saved in report.txt
+2025-02-11 20:10:06,936 Starting new HTTPS connection (1): api.telegram.org:443
+2025-02-11 20:10:07,227 https://api.telegram.org:443 "POST /bot7635404400:AAF4SC-DVMhFkM5_tl93_pnMp6ssVJNfWEM/sendMessage HTTP/11" 200 305
+2025-02-11 20:10:07,228 Telegram message was sent
