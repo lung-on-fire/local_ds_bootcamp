@@ -1,0 +1,9 @@
+<div class="rowTitle yf-t22klz" title="Total Revenue">Total Revenue</div>
+</div> 
+<div class="column yf-t22klz alt">261,802,000.00 </div>
+<div class="column yf-t22klz">245,122,000.00 </div>
+<div class="column yf-t22klz alt">211,915,000.00 </div>
+<div class="column yf-t22klz">198,270,000.00 </div>
+<div class="column yf-t22klz alt">168,088,000.00 </div>
+</div>  
+<div class="row lv-0 yf-t22klz"><div class="column sticky yf-t22klz"> 

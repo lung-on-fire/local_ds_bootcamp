@@ -1,0 +1,15 @@
+Tue Feb 18 17:12:30 2025    profiling-sleep.prof
+
+         585381 function calls (585300 primitive calls) in 1.402 seconds
+
+   Ordered by: cumulative time
+   List reduced from 735 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    1.192    1.192 financial_enhanced.py:8(prepare_html)
+        1    0.000    0.000    0.960    0.960 api.py:62(get)
+        1    0.000    0.000    0.960    0.960 api.py:14(request)
+        1    0.000    0.000    0.960    0.960 sessions.py:500(request)
+        1    0.000    0.000    0.959    0.959 sessions.py:673(send)
+
+

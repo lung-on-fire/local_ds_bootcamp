@@ -1,0 +1,11 @@
+('Total Revenue', '261,802,000.00', '245,122,000.00', '211,915,000.00', '198,270,000.00', '168,088,000.00')
+         748541 function calls (724158 primitive calls) in 0.750 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       24    0.001    0.000    0.949    0.040 __init__.py:1(<module>)
+    199/1    0.002    0.000    0.751    0.751 {built-in method builtins.exec}
+        1    0.000    0.000    0.751    0.751 financial_enhanced.py:1(<module>)
+    254/5    0.003    0.000    0.452    0.090 <frozen importlib._bootstrap>:1349(_find_and_load)
+    253/5    0.002    0.000    0.452    0.090 <frozen importlib._bootstrap>:1304(_find_and_load_unlocked)
